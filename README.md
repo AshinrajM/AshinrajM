@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ashin-raj-m-9201251ba/](https://www.linkedin.com/in/ashin-raj-m-9201251ba/)
 
-- 💬 Ask me about **Python,Django,Html,Git**
+- 💬 Ask me about **Python,Django,React,Git**
 
-- 📫 How to reach me **ashinrajeevank@outlook.com**
+- 📫 How to reach me **ashin.coder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
